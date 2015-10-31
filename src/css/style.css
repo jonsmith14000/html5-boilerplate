@@ -1,0 +1,15 @@
+/* line 4, /Users/jonandmel/Documents/JONS WEB DESIGN/GitHub/html5-boilerplate/src/css/style.scss */
+body {
+  font-family: Helvetica, sans-serif; }
+
+/* line 7, /Users/jonandmel/Documents/JONS WEB DESIGN/GitHub/html5-boilerplate/src/css/style.scss */
+h1, h2, h3, h4, h5 {
+  color: cadetblue; }
+
+/* line 10, /Users/jonandmel/Documents/JONS WEB DESIGN/GitHub/html5-boilerplate/src/css/style.scss */
+#container {
+  background-color: floralwhite;
+  max-width: 1000px;
+  margin: 0 auto; }
+
+/*# sourceMappingURL=style.css.map */
