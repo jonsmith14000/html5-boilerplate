@@ -12,4 +12,9 @@ h1, h2, h3, h4, h5 {
   max-width: 1000px;
   margin: 0 auto; }
 
+/* line 15, /Users/jonandmel/Documents/JONS WEB DESIGN/GitHub/html5-boilerplate/src/css/style.scss */
+header {
+  background-color: beige;
+  border-bottom: 2px solid blue; }
+
 /*# sourceMappingURL=style.css.map */
